@@ -4,9 +4,10 @@ License: MIT
 Description
 This application can be used to write and save notes, allowing the user to better organize their thoughts and keep track of the tasks they need to complete. This application uses an Express.js back end to save and retrieve note data from a JSON file.
 
-How it works
-The following steps explain how this "Note Taker" application works:
+How it works:
 
+
+The following steps explain how this "Note Taker" application works:
 
 When a user opens the Note Taker, they are presented with a landing page containing a link to a notes page.
 
