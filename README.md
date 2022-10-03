@@ -22,7 +22,14 @@ When the user clicks on an existing note in the list in the left-hand column, th
 When the user clicks on the write icon in the navigation at the top of the page, they're presented with empty fields to enter a new note and the note's text in the right-hand column.
 
 
+![Screenshot (17)](https://user-images.githubusercontent.com/109485865/193482281-c3c6b678-6175-4a9d-bd5d-2ec28b958f1c.png)
 
+
+![Screenshot (18)](https://user-images.githubusercontent.com/109485865/193482363-da2bf91e-4a79-4424-9e08-6d4d4f886fe4.png)
+
+![Screenshot (19)](https://user-images.githubusercontent.com/109485865/193482368-c62b662d-16f9-45e6-9658-ab9c0e198dc2.png)
+
+![Screenshot (20)](https://user-images.githubusercontent.com/109485865/193482371-62bd1f4b-a267-45fe-8703-30c1300d7059.png)
 
 
 
