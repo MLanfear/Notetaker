@@ -61,6 +61,8 @@ npm install generate-unique-id  // for generate unique id dependencies
 
 USAGE
 
+Here is a link to my deployed heroku app: https://dry-river-33890.herokuapp.com/
+
 
 
 
