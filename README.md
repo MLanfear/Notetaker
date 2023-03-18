@@ -1,7 +1,7 @@
 Note Taker Express.js Application
 License: MIT
 
-Description
+Description:
 This application can be used to write and save notes, allowing the user to better organize their thoughts and keep track of the tasks they need to complete. This application uses an Express.js back end to save and retrieve note data from a JSON file.
 
 How it works:
@@ -35,7 +35,7 @@ When the user clicks on the write icon in the navigation at the top of the page,
 
 
 
-Table of Contents
+Table of Contents:
 Installation
 Usage
 Credits
@@ -44,7 +44,7 @@ Contributing
 Questions
 
 
-Installation
+Installation:
 This app uses an Express.js back end to save and retrieve note data from a JSON file. Node.js, which is a run-time environment which includes everything you need to execute a program written in JavaScript. If haven't downloaded the Node.js source code or a pre-built installer for your platform, you will need to do so using this link.
 
 The dependencies required for this project are:
@@ -59,7 +59,7 @@ npm init -y  // initialize the project with NPM
 npm install express  // for express dependencies
 npm install generate-unique-id  // for generate unique id dependencies
 
-USAGE
+USAGE:
 
 Here is a link to my deployed heroku app: https://dry-river-33890.herokuapp.com/
 
@@ -68,16 +68,16 @@ Here is a link to my deployed heroku app: https://dry-river-33890.herokuapp.com/
 
 
 
-Credits
+Credits:
 The application's front end was provided. To give the application its CRUD (create, read, update, and delete) functionality, I built out the back end, provided connection routes, and then deployed the entire application to Heroku.
 
-License
+License:
 This project is licensed under the MIT license.
 
-Contributing
+Contributing:
 All comments and suggestions regarding improvements to this project are welcome. To contribute to this project, clone this project repository locally and commit your code on a separate branch.
 
-Questions
+Questions:
 Please use the contact information below if you would like to reach me with any questions.
 
 Github Profile: @MLanfear
